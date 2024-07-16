@@ -71,3 +71,5 @@ window.onload = function () {
         lapsDiv.appendChild(lapItem);
     };
 };
+
+
